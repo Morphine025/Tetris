@@ -1,0 +1,25 @@
+.container {
+    width: 400px;
+    height: 720px;
+    background-color: lightblue;
+    margin: 0 auto;
+    position: relative;
+}
+
+.activity_model {
+    width: 40px;
+    height: 40px;
+    background-color: purple;
+    border: 0.6px solid #eee;
+    box-sizing: border-box;
+    position: absolute;
+}
+
+.fixed_model {
+    width: 40px;
+    height: 40px;
+    background-color: darkslategray;
+    border: 0.6px solid #333;
+    box-sizing: border-box;
+    position: absolute;
+}
